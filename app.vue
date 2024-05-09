@@ -7,7 +7,5 @@
       <a class="text-3xl font-mono" href="">Car Trader</a>
     </header>
     <!-- NAVBAR -->
-
-
   </div>
 </template>
