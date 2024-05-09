@@ -1,5 +1,9 @@
+<script setup>
+useHead({
+  title: "CarTrader",
+});
+</script>
 
-import CarHero from '../components/CarHero.vue';
 <template>
   <div>
     <NavBar />
